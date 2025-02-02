@@ -15,6 +15,3 @@ function arrayStringsAreEqual(word1: string[], word2: string[]): boolean {
         return false
     }
 };
-console.log(arrayStringsAreEqual(["ab", "c"], ["a", "bc"]));
-console.log(arrayStringsAreEqual(["a", "cb"], ["ab", "c"]));
-console.log(arrayStringsAreEqual(["abc", "d", "defg"], ["abcddefg"]));
