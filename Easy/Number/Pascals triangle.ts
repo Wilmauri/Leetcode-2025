@@ -21,10 +21,3 @@ function generate(numRows: number): number[][] {
     }
     return triangle
 };
-
-
-console.log(generate(1));
-console.log(generate(2));
-console.log(generate(3));
-console.log(generate(4));
-console.log(generate(5));
