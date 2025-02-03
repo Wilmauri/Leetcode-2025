@@ -10,6 +10,3 @@ function isArraySpecial(nums: number[]): boolean {
     }
     return true
 };
-console.log(isArraySpecial([1]));
-console.log(isArraySpecial([2,1,4]));
-console.log(isArraySpecial([4,3,1,6]));
